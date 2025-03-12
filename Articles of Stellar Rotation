@@ -1,0 +1,33 @@
+1. McQuillan et al. (2014)
+Overview:
+This study analyzes over 34,000 main-sequence stars observed by the Kepler mission to derive their rotation periods using an automated approach. The authors rely heavily on the autocorrelation function (ACF) to identify periodic signals in the light curves.
+
+Methodology:
+The paper demonstrates that the autocorrelation method can robustly detect periodic modulations associated with stellar rotation, even in data with significant noise.
+Findings:
+A large fraction of stars show clear rotational signals, and the distribution of rotation periods provides insights into stellar evolution, magnetic activity, and angular momentum loss.
+Impact:
+The results contribute to a better understanding of the relationship between stellar rotation and age, as well as offering benchmarks for future studies using data from missions like TESS.
+
+
+2. Reinhold & Reiners (2013)
+Overview:
+This article focuses on the extraction and analysis of rotational signals from stellar light curves, emphasizing the role of differential rotation in shaping observed variability. The study targets F-type stars, which often exhibit rapid rotation.
+
+Methodology:
+The authors compare different period extraction techniques, highlighting the challenges in distinguishing between rotational modulation and other variability signals. Their work places special emphasis on the effects of differential rotation, where different latitudes on a star rotate at varying speeds.
+Findings:
+By carefully analyzing the periodicity in light curves, the study shows evidence for differential rotation and discusses its implications for understanding stellar magnetic dynamos.
+Impact:
+The paper provides guidance on improving the accuracy of period determinations in stars, suggesting methods to minimize the influence of non-rotational signals and thus better constrain models of stellar rotation and evolution.
+
+3. Recent Reviews on TESS Data Analysis (General Overview)
+Overview:
+While not a single article, recent reviews and studies on TESS stellar rotation have built on lessons learned from the Kepler era. These reviews discuss best practices for extracting rotational signals from TESS data.
+
+Methodology:
+The reviews emphasize techniques for mitigating systematic noise and refining period detection methods, including both autocorrelation and Lomb-Scargle periodograms.
+Challenges:
+TESS’s shorter observational baselines (compared to Kepler) and different noise characteristics are highlighted, leading to tailored strategies for signal extraction and validation.
+Impact:
+By consolidating various approaches and best practices, these reviews serve as valuable references for researchers aiming to accurately measure stellar rotation rates and to better understand the underlying stellar physics using TESS data.
